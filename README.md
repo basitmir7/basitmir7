@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help on various issues and also ready to provide.
 - 💬 Ask me about anything.
 - 📫 How to reach me:
-      https://www.linkedin.com/in/basit-mir-93a4b6212/
+      basitmir0222@gmail.com
       
 
