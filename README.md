@@ -1,6 +1,7 @@
 
- <h1 align="center" > Hello there! </h1>
+<!--  <h1 align="center" > Hello there! </h1> -->
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Basit</h1>
 
 <div align="center">
 <img width="495em" src="https://github-readme-stats.vercel.app/api?username=basitmir7&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" />
