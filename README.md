@@ -17,7 +17,12 @@
 
 # Technologies
 
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+![css](https://img.shields.io/badge/css3-%2335495e.svg?style=for-the-badge&logo=css3&logoColor=%white)
+![javascript](https://img.shields.io/badge/javascript-%2335495e.svg?style=for-the-badge&logo=javascript&logoColor=%white)
+
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -26,8 +31,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![postgresql](https://img.shields.io/badge/postgresql-%2335495e.svg?style=for-the-badge&logo=postgresql&logoColor=%white)
-![html](https://img.shields.io/badge/html-%2335495e.svg?style=for-the-badge&logo=html5&logoColor=%white)
-![css](https://img.shields.io/badge/css3-%2335495e.svg?style=for-the-badge&logo=css3&logoColor=%white)
-![javascript](https://img.shields.io/badge/javascript-%2335495e.svg?style=for-the-badge&logo=javascript&logoColor=%white)
+
 ![ejs](https://img.shields.io/badge/EJS-%2335495e.svg?style=for-the-badge&logo=EJS&logoColor=%white)
 
