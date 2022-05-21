@@ -1,6 +1,6 @@
 
  <h1 align="center" > Hello there! </h1>
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="center" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 <div align="center">
 <img width="495em" src="https://github-readme-stats.vercel.app/api?username=basitmir7&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" />
