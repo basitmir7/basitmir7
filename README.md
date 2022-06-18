@@ -22,7 +22,7 @@
 <br />
   
 <p align="center">
-      <img width="40%" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?       user=iambazzy&repo=iambazzy&countColorcountColor&countColor=%237B1E7B"/>
+      <img width="40%" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?       user=basitmir7&repo=basitmir7&countColorcountColor&countColor=%237B1E7B"/>
 </p>
 
 
