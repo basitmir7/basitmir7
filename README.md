@@ -11,6 +11,7 @@
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=basitmir7&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact" width="100%" alt="basit" />
 
 <br />
+ </p>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Jheni-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
