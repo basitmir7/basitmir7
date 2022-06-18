@@ -3,7 +3,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Basit</h1>
 
-<div align="center">
+<!-- <div align="center">
 <img width="495em" src="https://github-readme-stats.vercel.app/api?username=basitmir7&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" />
 </div>
 
@@ -14,7 +14,16 @@
 <div align="center" >
 <img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs?username=basitmir7&layout=compact&custom_title=Most used languages by LOCs">
 </div>
+ -->
+ <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=basitmir7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Basit Github Stats" width="100%" height="200"><img src="https://github-profile-trophy.vercel.app/?username=basitmir7&theme=juicyfresh&no-bg=true" &include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40 width="65%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir7&theme=tokyonight" alt="mystreak" height="200" width="100%"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=basitmir7&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact" width="100%" alt="basit" />
 
+<br />
+  
+<p align="center">
+      <img width="40%" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?       user=iambazzy&repo=iambazzy&countColorcountColor&countColor=%237B1E7B"/>
+</p>
 
 
 # Technologies
