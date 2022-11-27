@@ -19,7 +19,7 @@
   <img align="center" alt="Jheni-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jheni-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jheni-Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Jheni-Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/adobephotoshop-original.svg">
+  <img align="center" alt="Jheni-Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/adobephotoshop/adobephotoshop-original.svg">
 
 
   </div>
