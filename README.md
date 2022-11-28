@@ -47,4 +47,4 @@
 ![ejs](https://img.shields.io/badge/EJS-%2335495e.svg?style=for-the-badge&logo=EJS&logoColor=%white)
 
 # Views
-[![](https://visitcount.itsvg.in/api?id=basitmir7&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=basitmir7&icon=0&color=5)](https://visitcount.itsvg.in)]
