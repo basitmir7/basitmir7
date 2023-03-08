@@ -13,7 +13,7 @@
 
 <br />
  </p>
-  <p align="center>
+  <p align="center">
   <div style="display: inline_block"><br>
   <img align="center" alt="Jheni-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jheni-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
