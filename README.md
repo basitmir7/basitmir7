@@ -1,9 +1,11 @@
 
 <!--  <h1 align="center" > Hello there! </h1> -->
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<!-- <a href="#"><img width="100%" height="auto" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" height="175px"/></a> -->
 
 
-<p align="center"> ![web-dev-website-development](https://user-images.githubusercontent.com/80674953/223741227-8a340cc8-9834-45df-8d66-c0c2c682b0db.gif) </p>
+<!-- <p align="center">
+ ![web-dev-website-development](https://user-images.githubusercontent.com/80674953/223741227-8a340cc8-9834-45df-8d66-c0c2c682b0db.gif)
+</p> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Basit</h1>
 
