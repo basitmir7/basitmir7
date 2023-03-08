@@ -1,6 +1,6 @@
 
 <!--  <h1 align="center" > Hello there! </h1> -->
-<a href="#"><img width="75%" height="auto" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" height="100px"/></a>
+<p align="center"><img width="75%" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" height="100px"/></p>
 
 
 <!-- <p align="center">
