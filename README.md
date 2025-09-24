@@ -7,8 +7,7 @@
  ![web-dev-website-development](https://user-images.githubusercontent.com/80674953/223741227-8a340cc8-9834-45df-8d66-c0c2c682b0db.gif)
 </p> -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Basit</h1>
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Basit, A professional Software Engineer and AI Enthusiast with over 4+ years of experience specializing in various technologies and domains</h1>
 
 
  <p align="center">
