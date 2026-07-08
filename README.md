@@ -1,21 +1,14 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Basit</h1>
 
 <p align="center">
-  <img width="55%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="280px"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7A7ADB&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+AI+Enthusiast;4%2B+Years+Building+Scalable+Apps;Turning+Ideas+Into+Production-Ready+Code" alt="Typing SVG" />
+  </a>
 </p>
 
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Basit</h1>
-<p align="center"> A Software Engineer and AI Enthusiast with 4+ years of experience building scalable and robust Applications, Providing technical solutions to industries and specializing in various technologies and domains.</p>
-
-
- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=basitmir7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Basit Github Stats" width="100%" height="200">
-
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=basitmir7&theme=tokyonight" alt="mystreak" height="200" width="100%"/>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=basitmir7&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact" width="100%" alt="basit" />
+<p align="center">A Software Engineer and AI Enthusiast with 4+ years of experience building scalable and robust Applications, providing technical solutions to industries and specializing in various technologies and domains.</p>
 
 <br />
- </p>
 
 # Tech Stack
 
@@ -118,3 +111,14 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop)
 ![Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator)
 
+<br />
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=basitmir7&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
+<br />
+
+<p align="center"><i>Thanks for stopping by 👋 — feel free to check out my pinned repos below!</i></p>
