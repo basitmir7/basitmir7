@@ -50,7 +50,6 @@
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio)
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml)
 
 ---
 
@@ -73,6 +72,7 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog)
 ![Chronosphere](https://img.shields.io/badge/Chronosphere-000000?style=for-the-badge)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml)
 
 ---
 
